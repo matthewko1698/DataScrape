@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display|Poiret+One|Questrial');
+body{
+  font-family: Questrial;
+  width: 500px;
+  margin: auto;
+}
+a{
+  color:#1b1800;
+}
+h1{
+  font-size: 3em;
+}
+h2{
+  text-decoration: underline;
+  font-size: 2em;
+}
+ol,ul{
+  width: 500px;
+  margin:auto;
+  font-size: 1.5em;
+}
+li{
+  font-weight: bold;
+}
